@@ -11,6 +11,6 @@ En este repositorio se encuentran los laboratorios del curso, aunque el README.m
 > [!IMPORTANT]
 > Waffle dice este README.md no está hecho, pero ya se verá.
 
-> [!DANGER]
+> [!CAUTION]
 > Meow!
 
