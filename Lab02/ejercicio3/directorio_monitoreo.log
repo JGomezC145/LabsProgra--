@@ -1,0 +1,12 @@
+Monitoreando el directorio: carpeta1/
+2025-03-30 - Evento: hola.txt CREATE en 21:30:21 carpeta1/
+2025-03-30 - Evento: adios.txt CREATE en 21:30:33 carpeta1/
+2025-03-30 - Evento: hola.txt DELETE en 21:30:48 carpeta1/
+2025-03-30 - Evento: .adios.txt.swp CREATE en 21:30:55 carpeta1/
+2025-03-30 - Evento: .adios.txt.swp MODIFY en 21:30:55 carpeta1/
+2025-03-30 - Evento: .adios.txt.swp DELETE en 21:30:57 carpeta1/
+2025-03-30 - Evento: .adios.txt.swp CREATE en 21:30:57 carpeta1/
+2025-03-30 - Evento: .adios.txt.swp MODIFY en 21:30:57 carpeta1/
+2025-03-30 - Evento: adios.txt MODIFY en 21:31:03 carpeta1/
+2025-03-30 - Evento: adios.txt MODIFY en 21:31:03 carpeta1/
+2025-03-30 - Evento: .adios.txt.swp DELETE en 21:31:03 carpeta1/

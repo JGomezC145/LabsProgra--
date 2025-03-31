@@ -1,0 +1,10 @@
+El grupo 'sudo' ya existe.
+El usuario 'wsljgomez' ya existe. Se agrega al grupo 'sudo'.
+Propietario y grupo del archivo 'README.md' cambiados a 'wsljgomez:sudo'.
+Permisos del archivo 'README.md' cambiados a 740 (rwxr-----).
+Script completado exitosamente.
+Grupo 'simples' creado.
+Usuario 'wslts' creado y asignado al grupo 'simples'.
+Propietario y grupo del archivo 'inf.txt' cambiados a 'wslts:simples'.
+Permisos del archivo 'inf.txt' cambiados a 740 (rwxr-----).
+Script completado exitosamente.
