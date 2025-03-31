@@ -167,6 +167,7 @@ Monitoreando el directorio: carpeta1/
 Este servicio se encarga de iniciar automáticamente el monitoreo del directorio especificado mediante el script `ejercicio3.sh`.
 
 ### Archivo del Servicio
+Codigo usado en este servicio:
 ```ini
 [Unit]
 Description=Servicio de Monitoreo de Cambios en Directorios
@@ -174,12 +175,13 @@ After=network.target
 
 [Service]
 Type=simple
-ExecStart=/bin/bash /ruta/a/tu/ejercicio3.sh /ruta/a/tu/directorio
-WorkingDirectory=/ruta/a/tu
+ExecStart=/bin/bash /home/jgomezc145/Desktop/ejercicio3.sh ./carpeta1/
+WorkingDirectory=/home/jgomezc145/Desktop/
 Restart=always
 
 [Install]
 WantedBy=multi-user.target
+
 ```
 
 ### Instalación del Servicio
