@@ -90,7 +90,7 @@ Proceso 'firefox' iniciado con PID #######.
 ...
 ```
 > [!NOTE]
-> El PID puede variar según el proceso y el sistema. El 
+> El PID puede variar según el proceso y el sistema. 
 
 > [!IMPORTANT]
 > El script no se detiene solo a menos que el proceso acabe o se interrumpa manualmente.
