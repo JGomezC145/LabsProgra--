@@ -1,1 +1,2 @@
-Aqui no hay nada :D
+Error generating README.md. 
+Please verify scripts.

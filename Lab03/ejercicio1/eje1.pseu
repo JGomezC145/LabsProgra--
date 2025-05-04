@@ -1,7 +1,0 @@
-función suma_diagonales(matriz, tamaño):
-    suma_principal = 0
-    suma_secundaria = 0
-    para i desde 0 hasta tamaño-1:
-        suma_principal += matriz[i][i]
-        suma_secundaria += matriz[i][tamaño - 1 - i]
-    retornar suma_principal + suma_secundaria
